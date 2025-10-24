@@ -5,8 +5,17 @@
   "benefits": [
     {
       "id": "afdf248f-bd05-4e5e-b3cd-d0608609e33b",
-      "name": "United credits on Avis or Budget car rental",
-      "amount": 100,
+      "name": "United credits on Avis or Budget car rental (1st)",
+      "amount": 50,
+      "description": "Receive $50 in United® TravelBank cash, up to $100 each anniversary year, for your 1st and 2nd Avis or Budget car rental booked directly through cars.united.com and paid for with your United Club Card. Must use AWD code for credit.",
+      "expiryCycle": "anniversary_yearly",
+      "customExpiryDate": "2026-07-05",
+      "status": "active"
+    },
+    {
+      "id": "e5c72523-f7cd-41ad-8238-147eb11a2d6c",
+      "name": "United credits on Avis or Budget car rental (2nd)",
+      "amount": 50,
       "description": "Receive $50 in United® TravelBank cash, up to $100 each anniversary year, for your 1st and 2nd Avis or Budget car rental booked directly through cars.united.com and paid for with your United Club Card. Must use AWD code for credit.",
       "expiryCycle": "anniversary_yearly",
       "customExpiryDate": "2026-07-05",
